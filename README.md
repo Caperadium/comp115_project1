@@ -1,1 +1,7 @@
-# This is my comp 115 project which demonstrates a simple drawing of a fish in water using pythons turtle function
+# Contributor: Kieran Trythall
+# For COMP 115 Project 1
+
+== Description ==
+ This code draws a fish in water using python's turtle module
+ You may input a valid colour and location for the fish
+ 
